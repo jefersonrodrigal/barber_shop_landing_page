@@ -1,2 +1,2 @@
-# barber-shop-landing-page
+# Barber-shop-landing-page
 Landing page utilizando html, css, sass e javascript
